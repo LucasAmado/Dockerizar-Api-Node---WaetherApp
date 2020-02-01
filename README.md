@@ -1,1 +1,1 @@
-# Dockerizar - WaetherApp
+# Dockerizar - WeatherApp
