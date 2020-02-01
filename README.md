@@ -51,10 +51,10 @@
  
 6. Crear un contenedor:
     ```
-    docker run --name dockerizar-watherApp -p 49160:3000 -d <your username>/node-weather-app
+    docker run --name dockerizar-weatherApp -p 49160:3000 -d <your username>/node-weather-app
     ```
 
 7. Ejecute el siguiente comando para comprobar que todo ha ído correctamente
    ```
-   docker logs dockerizar-watherApp
+   docker logs dockerizar-weatherApp
    ```
